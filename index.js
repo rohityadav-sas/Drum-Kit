@@ -5,11 +5,14 @@ for(var i = 0; i < document.querySelectorAll(".drum").length; i++){
         var buttonHTML = this.innerHTML;
         makeSound(buttonHTML);
 
+        buttonAnimation(buttonHTML);
     });
 }
 
     document.addEventListener("keypress",function(event){
         makeSound(event.key);
+
+        buttonAnimation(event.key);
     });
 
 
@@ -48,5 +51,15 @@ for(var i = 0; i < document.querySelectorAll(".drum").length; i++){
                 break;
         }
         
+    }
+
+function buttonAnimation(clickedKey){
+        var activeKey = document.querySelector("." + clickedKey);
+
+        activeKey.classList.add("pressed");
+
+        setTimeout(function(){
+            activeKey.classList.remove("pressed");
+        }, 100);
     }
 
