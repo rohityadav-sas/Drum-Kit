@@ -1,8 +1,7 @@
-
-for(var i = 0; i < document.querySelectorAll(".drum").length; i++){
+for(let i = 0; i < document.querySelectorAll(".drum").length; i++){
 
     document.querySelectorAll(".drum")[i].addEventListener("click", function (){
-        var buttonHTML = this.innerHTML;
+        let buttonHTML = this.innerHTML;
         makeSound(buttonHTML);
 
         buttonAnimation(buttonHTML);
