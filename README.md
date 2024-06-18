@@ -3,7 +3,7 @@
 A simple drum kit web application that allows users to play different drum sounds by clicking buttons or pressing corresponding keys on the keyboard.
 
 ## Table of Contents
-
+- [Preview](#preview)
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Features](#features)
@@ -11,6 +11,9 @@ A simple drum kit web application that allows users to play different drum sound
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Preview
+![preview.png](./assets/preview.png?raw=true)
 
 ## Introduction
 
