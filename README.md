@@ -40,11 +40,13 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/rohityadav-sas/drum-kit
+   ```
    
 2. Navigate to the project directory:
 
    ```bash
    cd drum-kit
+   ```
    
 ## Usage
 1. Open the index.html file in your web browser.
@@ -59,10 +61,12 @@ Contributions are welcome! Here's how you can contribute to this project:
    
       ```bash
       git checkout -b feature-branch
+      ```
 4. Make your changes.
 5. Commit your changes
       ```bash
       git commit -am 'Add new feature'
+      ```
       
 7. Push to the branch
    
