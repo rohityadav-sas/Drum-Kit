@@ -4,26 +4,14 @@ A simple drum kit web application that allows users to play different drum sound
 
 ## Table of Contents
 - [Preview](#preview)
-- [Introduction](#introduction)
-- [Technologies](#technologies)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contributing](#contributing)
 
 ## Preview
 ![preview.png](./assets/preview.png?raw=true)
-
-## Introduction
-
-This project is a fun web application that simulates a drum kit. It provides an interactive interface where users can trigger various drum sounds by either clicking the corresponding buttons on the screen or pressing the associated keys on their keyboard. The application is built using HTML, CSS, and JavaScript.
-
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
 
 ## Features
 
@@ -53,26 +41,10 @@ To run this project locally, follow these steps:
 2. Click on the drum buttons or press the corresponding keys on your keyboard to play the drum sounds.
 3. Enjoy creating beats with the drum kit!
    
-## Contributing
-Contributions are welcome! Here's how you can contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch
-   
-      ```bash
-      git checkout -b feature-branch
-      ```
-4. Make your changes.
-5. Commit your changes
-      ```bash
-      git commit -am 'Add new feature'
-      ```
-      
-7. Push to the branch
-   
-      ```bash
-      git push origin feature-branch
-9. Create a new Pull Request.
-
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the ISC License. See the [LICENSE](./LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
