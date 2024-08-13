@@ -35,11 +35,11 @@ To run this project locally, follow these steps:
    ```bash
    cd drum-kit
    ```
+3. Open ```index.html``` in your web browser.
    
 ## Usage
-1. Open the index.html file in your web browser.
-2. Click on the drum buttons or press the corresponding keys on your keyboard to play the drum sounds.
-3. Enjoy creating beats with the drum kit!
+1. Click on the drum buttons or press the corresponding keys on your keyboard to play the drum sounds.
+2. Enjoy creating beats with the drum kit!
    
 ## License
 
